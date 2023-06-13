@@ -1,0 +1,11 @@
+
+
+knkk bu çalışmadan çıkardıgım sonuclarda ilk önce  initi future içinde yazmakmıs
+Future<void> _initAlize() async {
+    changeLoading();
+    await _sharedManager.init().then((value) => getDefaultValue());
+    changeLoading();
+  }
+
+  ikincisi ise hangi değişken üzerinde işlem yapıcaksan ona default deger ver late atayıp sonra initState içeriisnde
+  zaten değer verirsin!

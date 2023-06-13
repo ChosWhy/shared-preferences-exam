@@ -1,0 +1,22 @@
+CurvedNavigationBar: Material Design kurallarına uygun bir şekilde yuvarlatılmış kenarlara sahip,
+ animasyonlu bir alt gezinme çubuğu sunar. Resmi Flutter paket deposunda bulunabilir.
+
+FancyBottomNavigationBar: İkonlara ve metinlere sahip, hareketli geçiş efektleri sunan bir
+alt gezinme çubuğu bileşenidir. Resmi Flutter paket deposunda bulunmamaktadır, ancak üçüncü
+taraf paket deposunda mevcuttur.
+
+ConvexBottomBar: Hareketli ve yuvarlatılmış bir alt gezinme çubuğu sağlar. İkonlar için görsel
+ efektler sunar ve animasyonlu geçişler içerir. Resmi Flutter paket deposunda bulunabilir.
+
+TitledBottomNavigationBar: Her sekmeye başlık ve ikon eklemenize izin veren bir alt gezinme
+çubuğudur. Ayrıca renkli bir arka plan ve animasyonlu geçişler sunar. Resmi Flutter paket
+deposunda bulunmamaktadır, ancak üçüncü taraf paket deposunda mevcuttur.
+
+
+
+
+appbarın default olarak geri butonu var bunu sen custom etmek istiyorsan o leading kısmında!
+
+
+knk sunu gördüm animasyonlu bi bototmnavigationbar kullanıyosan hepsinde veremezsin sadece 1 sayfada vericeksin bunu ve
+diğer bütün sayfalarda bunu kullanıcaksın yoksa animasyonu bozuluyor!
